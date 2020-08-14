@@ -1,0 +1,30 @@
+*.class
+
+# Maven
+target/
+
+# File-based project format
+*.iws
+
+# IntelliJ
+out/
+.idea/
+*.iml
+modules.xml
+*.ipr
+
+# Eclipse
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+.project
+.classpath
+
